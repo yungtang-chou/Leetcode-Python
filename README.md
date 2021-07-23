@@ -3,8 +3,10 @@ This repository contains leetcode Python problems as well as solutions, solely f
 
 ---
 
-### Python Leetcode Problems
+## Python Leetcode Problems
 
-| \# | Problems | Solutions | Level| tags |
+### Array
+
+| \# | Problems | Solutions | Level|
 |----|----------|-----------|------|----|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Array/1%20Two%20Sum.py) | Easy | Array
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Array/1%20Two%20Sum.py) | Easy 
