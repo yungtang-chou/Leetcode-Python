@@ -21,3 +21,4 @@ class Solution:
         while nums.count(val):
             nums.remove(val)
         return len(nums)
+    
