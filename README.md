@@ -10,6 +10,7 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Math/1%20Two%20Sum.py) | Easy |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python]() | Easy |
 
 ### Array
 | \# | Problems | Solutions | Level|
@@ -23,3 +24,4 @@ This repository contains leetcode Python problems as well as solutions, solely f
 |----|----------|-----------|------|
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./String/14.%20Longest%20Common%20Prefix.py) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./String/28.%20Implement%20strStr().py) | Easy |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python]() | Easy |
