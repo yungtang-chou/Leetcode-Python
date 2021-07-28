@@ -24,3 +24,10 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array%20%26%20String/53.%20Maximum%20Subarray.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array%20%26%20String/189.%20Rotate%20Array.py) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array%20%26%20String/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
+
+### LinkedList
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./) | Easy |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./) | Easy |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./) | Easy |
