@@ -32,10 +32,10 @@ This repository contains leetcode Python problems as well as solutions, solely f
 |----|----------|-----------|------|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/21.%20Merge%20Two%20Sorted%20Lists.py) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./LinkedList/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | Easy |
-| 141 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/141.%20Linked%20List%20Cycle.py) | Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/141.%20Linked%20List%20Cycle.py) | Easy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./LinkedList/203.%20Remove%20Linked%20List%20Elements.py) | Easy |
-| 206 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/206.%20Reverse%20Linked%20List.py) | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/206.%20Reverse%20Linked%20List.py) | Easy |
 
 
 
