@@ -25,9 +25,20 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array%20%26%20String/189.%20Rotate%20Array.py) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array%20%26%20String/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
 
+
+
 ### LinkedList
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/21.%20Merge%20Two%20Sorted%20Lists.py) | Easy |
+| 83! | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./) | Easy |
+| 141! | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./) | Easy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./LinkedList/203.%20Remove%20Linked%20List%20Elements.py) | Easy |
+| 206! | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./) | Easy |
+
+
+
+
+
+
