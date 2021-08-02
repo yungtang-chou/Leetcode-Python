@@ -32,13 +32,13 @@ This repository contains leetcode Python problems as well as solutions, solely f
 |----|----------|-----------|------|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/21.%20Merge%20Two%20Sorted%20Lists.py) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./LinkedList/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | Easy |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./) | Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./LinkedList/92.%20Reverse%20Linked%20List%20II.py) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/141.%20Linked%20List%20Cycle.py) | Easy |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./) | Medium |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./LinkedList/143.%20Reorder%20List.py) | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./LinkedList/203.%20Remove%20Linked%20List%20Elements.py) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./LinkedList/206.%20Reverse%20Linked%20List.py) | Easy |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./) | Easy |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./LinkedList/234.%20Palindrome%20Linked%20List.py) | Easy |
 
 
 
