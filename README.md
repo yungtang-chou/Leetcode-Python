@@ -5,13 +5,6 @@ This repository contains leetcode Python problems as well as solutions, solely f
 
 ## Python Leetcode Problems
 
-### Math
-
-| \# | Problems | Solutions | Level|
-|----|----------|-----------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Math/1%20Two%20Sum.py) | Easy |
-| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Math/167.%20Two%20Sum%20II.py) | Easy |
-
 ### Array & String
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
@@ -25,6 +18,15 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array%20%26%20String/189.%20Rotate%20Array.py) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array%20%26%20String/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
 
+
+### Hashmap
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Hashmap/1%20Two%20Sum.py) | Easy |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Hashmap/167.%20Two%20Sum%20II.py) | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./) | Easy |
 
 
 ### LinkedList
