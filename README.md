@@ -24,9 +24,9 @@ This repository contains leetcode Python problems as well as solutions, solely f
 |----|----------|-----------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Hashmap/1%20Two%20Sum.py) | Easy |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Hashmap/167.%20Two%20Sum%20II.py) | Easy |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./) | Easy |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./) | Easy |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./) | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./Hashmap/205.%20Isomorphic%20Strings.py) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Hashmap/217.%20Contains%20Duplicate.py) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Hashmap/242.%20Valid%20Anagram.py) | Easy |
 
 
 ### LinkedList
