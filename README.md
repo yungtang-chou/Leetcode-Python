@@ -27,9 +27,9 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./Hashmap/205.%20Isomorphic%20Strings.py) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Hashmap/217.%20Contains%20Duplicate.py) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Hashmap/242.%20Valid%20Anagram.py) | Easy |
-| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./) | Easy |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./) | Easy |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./) | Easy |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./Hashmap/290.%20Word%20Pattern.py) | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./Hashmap/349.%20Intersection%20of%20Two%20Arrays.py) | Easy |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./Hashmap/350.%20Intersection%20of%20Two%20Arrays%20II.py) | Easy |
 
 
 ### LinkedList
