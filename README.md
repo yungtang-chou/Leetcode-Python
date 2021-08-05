@@ -49,8 +49,8 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Stack & Queue
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./) | Easy |
-| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./) | Medium |
-| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Stack%20and%20Queue/20.%20Valid%20Parentheses.py) | Easy |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./Stack%20and%20Queue/71.%20Simplify%20Path.py) | Medium |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./Stack%20and%20Queue/227.%20Basic%20Calculator%20II.py) | Medium |
 
 
