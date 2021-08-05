@@ -46,7 +46,11 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./LinkedList/234.%20Palindrome%20Linked%20List.py) | Easy |
 
 
-
-
+### Stack & Queue
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./) | Easy |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./) | Medium |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./) | Medium |
 
 
