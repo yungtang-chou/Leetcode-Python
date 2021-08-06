@@ -17,8 +17,8 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array%20%26%20String/53.%20Maximum%20Subarray.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array%20%26%20String/189.%20Rotate%20Array.py) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array%20%26%20String/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./) | Easy |
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array%20%26%20String/392.%20Is%20Subsequence.py) | Easy |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array%20%26%20String/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
 
 
 ### Hashmap
@@ -59,4 +59,4 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Greedy
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./) | Medium |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Greedy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | Medium |
