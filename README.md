@@ -72,10 +72,10 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Math
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Matrix/73.%20Set%20Matrix%20Zeroes.py) | Medium |
+| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Math/780.%20Reaching%20Points.py) | Hard |
 
 
-### Math
+### Sliding Window
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Matrix/73.%20Set%20Matrix%20Zeroes.py) | Medium |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium |
