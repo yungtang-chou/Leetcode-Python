@@ -69,3 +69,13 @@ This repository contains leetcode Python problems as well as solutions, solely f
 |----|----------|-----------|------|
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](./Matrix/73.%20Set%20Matrix%20Zeroes.py) | Medium |
 
+### Math
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Matrix/73.%20Set%20Matrix%20Zeroes.py) | Medium |
+
+
+### Math
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Matrix/73.%20Set%20Matrix%20Zeroes.py) | Medium |
