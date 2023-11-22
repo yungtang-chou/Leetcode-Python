@@ -5,20 +5,30 @@ This repository contains leetcode Python problems as well as solutions, solely f
 
 ## Python Leetcode Problems
 
-### Array & String
+### Array
+| \# | Problems | Solutions | Level| 
+|----|----------|-----------|------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Array/1.%20Two%20Sum.py) | Easy |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Array/5.%20Longest%20Palindromic%20Substring.py) | Medium |
+| 13 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/roman-to-integer/) | [Python](./Array/13.%20Roman%20to%20Integer.py) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Array/14.%20Longest%20Common%20Prefix.py) | Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Array/27.%20Remove%20Element.py) | Easy |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Array/28.%20Implement%20strStr().py) | Easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array/53.%20Maximum%20Subarray.py) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array/189.%20Rotate%20Array.py) | Medium |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Array/217.%20Contains%20Duplicates.py) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Array/242.%20Valid%20Anagram.py) | Easy |
+
+
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
+
+### Two Pointers
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Array%20%26%20String/5.%20Longest%20Palindromic%20Substring.py) | Medium |
-| 13 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/roman-to-integer/) | [Python](./Array%20%26%20String/13.%20Roman%20to%20Integer.py) | Easy |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Array%20%26%20String/14.%20Longest%20Common%20Prefix.py) | Easy |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Array%20%26%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Array%20%26%20String/27.%20Remove%20Element.py) | Easy |
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Array%20%26%20String/28.%20Implement%20strStr().py) | Easy |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array%20%26%20String/53.%20Maximum%20Subarray.py) | Easy |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array%20%26%20String/189.%20Rotate%20Array.py) | Medium |
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array%20%26%20String/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array%20%26%20String/392.%20Is%20Subsequence.py) | Easy |
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array%20%26%20String/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
+| 125 | [Valid Palimdrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Two%20Pointers/141.%20Valid%20Palindrome.py) | Easy |
 
 
 ### Hashmap
