@@ -17,12 +17,11 @@ class Solution(object):
                 start += 1
             elif not s[end].isalnum(): ## ignore non-alphanumeric
                 end -= 1
-            elif s[start].lower() == s[end].lower(): ## if the same, move both pointers
-                start += 1
-                end -= 1 
             elif s[start].lower() != s[end].lower(): ## if not the same, return false
                 return False
-            
+            else: ## if the same, move both pointers
+                start += 1
+                end -= 1 
 
     
 # Solution 2: Pythonic way of doing it 

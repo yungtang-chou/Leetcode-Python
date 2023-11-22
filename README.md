@@ -19,8 +19,6 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array/189.%20Rotate%20Array.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Array/217.%20Contains%20Duplicates.py) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Array/242.%20Valid%20Anagram.py) | Easy |
-
-
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
@@ -88,4 +86,5 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Sliding Window
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Sliding%20Window/121.%20Best%20Time%20To%20Buy%20And%20Sell%20Stock.py) | Easy |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium |
