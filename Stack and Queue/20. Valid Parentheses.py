@@ -1,28 +1,35 @@
 # Solution
-# Runtime: 32 ms, faster than 63.56% of Python3 online submissions for Valid Parentheses.
-# Memory Usage: 14.1 MB, less than 96.55% of Python3 online submissions for Valid Parentheses.
+# Runtime: 11 ms
+# Memory Usage: 13.5 MB
 
-class Solution:
-    def isValid(self, s: str) -> bool:
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
         dic = {
-                "(": ")",
-               "[": "]",
-               "{": "}"
-              }
-        stack = []
-        
+            '(': ')',
+            '{': '}',
+            '[': ']' 
+        }
+
+        stack = [] 
+
         if len(s) == 0:
             return True
-        
-        if len(s) % 2 != 0:
+
+        if len(s) % 2 != 0: ## if odd number, it's not valid
             return False
-        
-        for paren in s:
-            if paren in dic:
-                stack.append(paren)
+
+        for c in s:
+            if c in dic:
+                stack.append(c)
+            elif len(stack) == 0 or c != dic[stack.pop()]:
+                return False
             else:
-                if len(stack) == 0 or paren != dic[stack.pop()]:
-                    return False
-        if len(stack) != 0:
-            return False
-        return True
+                continue
+
+        if len(stack) == 0:
+            return True
+        return False

@@ -23,11 +23,22 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
 
+### Binary Search
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Binary%20Search/704.%20Binary%20Search.py) | Easy |
+
 ### Two Pointers
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 125 | [Valid Palimdrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Two%20Pointers/141.%20Valid%20Palindrome.py) | Easy |
 
+### Tree
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 104 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Tree/104.%20Maximum%20Depth%20Of%20Binary%20Tree.py) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Tree/226.%20Invert%20Binary%20Tree.py) | Easy |
+| 543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Tree/543.%20Diameter%20Of%20Binary%20Tree.py) | Easy |
 
 ### Hashmap
 | \# | Problems | Solutions | Level|
