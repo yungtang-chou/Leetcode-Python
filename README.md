@@ -53,6 +53,11 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./Hashmap/349.%20Intersection%20of%20Two%20Arrays.py) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./Hashmap/350.%20Intersection%20of%20Two%20Arrays%20II.py) | Easy |
 
+### Heap
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./Heap/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py) | Easy |
+
 
 ### LinkedList
 | \# | Problems | Solutions | Level|
@@ -91,6 +96,7 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Math
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Math/202.%20Happy%20Number.py) | Easy |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Math/780.%20Reaching%20Points.py) | Hard |
 
 
