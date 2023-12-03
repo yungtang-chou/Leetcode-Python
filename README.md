@@ -15,11 +15,13 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Array/27.%20Remove%20Element.py) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Array/28.%20Implement%20strStr().py) | Easy |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Array/49.%20Group%20Anagrams.py) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array/53.%20Maximum%20Subarray.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array/189.%20Rotate%20Array.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Array/217.%20Contains%20Duplicates.py) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Array/242.%20Valid%20Anagram.py) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./Array/345.%20Reverse%20Vowels%20of%20a%20String.py) | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Array/347.%20Top%20K%20Frequent%20Elements.py) | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
 
@@ -27,6 +29,11 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Binary%20Search/704.%20Binary%20Search.py) | Easy |
+
+### Bit Manipulation
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Binary%Manipulation/136.%20Single%20Number.py) | Easy |
 
 ### Two Pointers
 | \# | Problems | Solutions | Level|
@@ -43,7 +50,6 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Hashmap
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Hashmap/1%20Two%20Sum.py) | Easy |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Hashmap/167.%20Two%20Sum%20II.py) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./Hashmap/205.%20Isomorphic%20Strings.py) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Hashmap/217.%20Contains%20Duplicate.py) | Easy |
@@ -96,6 +102,7 @@ This repository contains leetcode Python problems as well as solutions, solely f
 ### Math
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Math/66.%20Plus%20One.py) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Math/202.%20Happy%20Number.py) | Easy |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Math/780.%20Reaching%20Points.py) | Hard |
 
