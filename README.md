@@ -15,8 +15,13 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Array/27.%20Remove%20Element.py) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Array/28.%20Implement%20strStr().py) | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./Array/36.%20Valid%20Sudoku.py) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Array/49.%20Group%20Anagrams.py) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array/53.%20Maximum%20Subarray.py) | Easy |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./Array/128.%20Longest%20Consecutive%20Sequence.py) | Medium |
+| 141 | [Valid Palimdrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Two%20Pointers/141.%20Valid%20Palindrome.py) | Easy |
+| 158 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Array/158.%203Sum.py) | Medium |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Array/167.%20Two%20Sum%20II.py) | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array/189.%20Rotate%20Array.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Array/217.%20Contains%20Duplicates.py) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Array/238.%20Product%20of%20Array%20Except%20Self.py) | Medium |
@@ -25,21 +30,9 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Array/347.%20Top%20K%20Frequent%20Elements.py) | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Array/704.%20Binary%20Search.py) | Easy |
 
-### Binary Search
-| \# | Problems | Solutions | Level|
-|----|----------|-----------|------|
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Binary%20Search/704.%20Binary%20Search.py) | Easy |
 
-### Bit Manipulation
-| \# | Problems | Solutions | Level|
-|----|----------|-----------|------|
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Binary%Manipulation/136.%20Single%20Number.py) | Easy |
-
-### Two Pointers
-| \# | Problems | Solutions | Level|
-|----|----------|-----------|------|
-| 125 | [Valid Palimdrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Two%20Pointers/141.%20Valid%20Palindrome.py) | Easy |
 
 ### Tree
 | \# | Problems | Solutions | Level|
@@ -106,10 +99,18 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Math/66.%20Plus%20One.py) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Math/202.%20Happy%20Number.py) | Easy |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Python](./Math/780.%20Reaching%20Points.py) | Hard |
+| 1288 | [Count of Matches in a Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python](./Math/1288.%20Count%20of%Matches%20in%20a%20Tournament.py) | Easy |
 
 
 ### Sliding Window
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Sliding%20Window/121.%20Best%20Time%20To%20Buy%20And%20Sell%20Stock.py) | Easy |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium |
+
+
+### Bit Manipulation
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Binary%Manipulation/136.%20Single%20Number.py) | Easy |
