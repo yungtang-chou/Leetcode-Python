@@ -20,6 +20,8 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Array/53.%20Maximum%20Subarray.py) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./Array/128.%20Longest%20Consecutive%20Sequence.py) | Medium |
 | 141 | [Valid Palimdrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Two%20Pointers/141.%20Valid%20Palindrome.py) | Easy |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Array/150.%20Evaluate%20Reverse%20Polish%20Notation.py) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Array/155.%20Min%20Stack.py) | Medium |
 | 158 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Array/158.%203Sum.py) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Array/167.%20Two%20Sum%20II.py) | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Array/189.%20Rotate%20Array.py) | Medium |
@@ -31,7 +33,7 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Array/704.%20Binary%20Search.py) | Easy |
-
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Array/739.%20Daily%20Temperatures.py) | Medium |
 
 
 ### Tree
@@ -114,3 +116,8 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Binary%Manipulation/136.%20Single%20Number.py) | Easy |
+
+### Backtracking
+| \# | Problems | Solutions | Level|
+|----|----------|-----------|------|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./Backtracking/22.%20Generate%20Parentheses.py) | Medium |
