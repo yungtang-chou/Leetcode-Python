@@ -108,8 +108,10 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [Python](./Sliding%20Window/30.%20Substring%20with%20Contatenation%20of%20All%20Words.py) | Hard |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Sliding%20Window/121.%20Best%20Time%20To%20Buy%20And%20Sell%20Stock.py) | Easy |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Python](./Sliding%20Window/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py) | Medium |
 
 
 ### Bit Manipulation
