@@ -32,7 +32,6 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Array/347.%20Top%20K%20Frequent%20Elements.py) | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./Array/392.%20Is%20Subsequence.py) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./Array/643.%20Maximum%20Average%20Subarray%20I.py) | Easy |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Array/704.%20Binary%20Search.py) | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Array/739.%20Daily%20Temperatures.py) | Medium |
 
 
@@ -111,13 +110,20 @@ This repository contains leetcode Python problems as well as solutions, solely f
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [Python](./Sliding%20Window/30.%20Substring%20with%20Contatenation%20of%20All%20Words.py) | Hard |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Sliding%20Window/121.%20Best%20Time%20To%20Buy%20And%20Sell%20Stock.py) | Easy |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.py) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Python](./Sliding%20Window/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py) | Medium |
 
+
+### Binary Search
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./Binary%20Search/74.%20Search%20a%202D%20Matrix.py) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | Medium |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Binary%20Search/704.%20Binary%20Search.py) | Easy |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./Binary%20Search/875.%20Koko%20Eating%20Bananas.py) | Medium |
 
 ### Bit Manipulation
 | \# | Problems | Solutions | Level|
 |----|----------|-----------|------|
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Binary%Manipulation/136.%20Single%20Number.py) | Easy |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Bit%20Manipulation/136.%20Single%20Number.py) | Easy |
 
 ### Backtracking
 | \# | Problems | Solutions | Level|
